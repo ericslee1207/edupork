@@ -1,0 +1,65 @@
+
+Page
+2
+of 2
+CIS 3200: Introduction to Algorithms (Spring ’24)
+General Information
+Instructor: Erik Waingarten
+Office hours: Wed: 5 – 6:30 pm (right after lecture).
+Please do not email me. Come talk to me before or after class.
+Head TAs: Wenxi Chen (chenwx@seas.upenn.edu) and Andrew Zhen (azhen@seas.upenn.edu).
+TA Staff:
+Skyler Cheung (skcheung@seas.upenn.edu), May Hathaway (mayh@sas.upenn.edu), Tinatin
+Kokoshvili (tinatin@seas.upenn.edu), Jason Ren (jren2@seas.upenn.edu), Andrew Zhang (zdan-
+drew@seas.upenn.edu), Nicolas Menand (nmenand@seas.upenn.edu), Nathan White
+(nathanlw@seas.upenn.edu), Sara Xin (sxin0612@seas.upenn.edu), Joseph Cho
+(hwisang@seas.upenn.edu), Aryan Roy (aryanroy@seas.upenn.edu), Kayan Mohamed
+(kayan25@seas.upenn.edu), Kaily Liu (liukaily@seas.upenn.edu), Chi Zhang (chizhg@seas.upenn.edu),
+Eugene Halim (ehalim@sas.upenn.edu), Ethan Ma (ethanma@seas.upenn.edu), Cynthia Zhang
+(cynzhang@wharton.upenn.edu), Sophie Courtney (sophieyl@wharton.upenn.edu), Rayan Yu
+(rayanyu@seas.upenn.edu), Mark Kalaj (markkal@seas.upenn.edu), Karthik Sai Padmanabhan
+(ksai@seas.upenn.edu)
+Textbook: Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein, third edition.
+Website: There is a Canvas website, as well as the following website:
+https://www.seas.upenn.edu/~cis3200/current/. We will use Ed Discussions for online
+clarifications related to the homeworks and other course material.
+Course Organization
+Homeworks and Independent Homeworks: There will be 7 regular homeworks, and 7
+independent homeworks.
+• The regular homeworks are collaborative assignments over a long(er) timeframe of 1-2
+weeks; these will be graded for correctness.
+• Independent homeworks have a short timeframe (2–3 days) and must be done completely
+independently; however, these are only graded for completion (and not correctness)—it
+will suffice to write something for each of the questions.
+Homeworks (both regular and independent) total of 25% of the grade.
+1
+Midterms: Mid-Term 1 is on February 21 (W), and Mid-Term 2 is on April 3 (W). Each
+midterm is worth 20% of the grade. They will be held during the class time.
+Final: The final exam will be held in accordance with the schedule decided by the Penn
+registrar’s office. It is worth 35% of the grade. All exams will be closed-book and closed-
+notes.
+Course Policies
+• You are allowed (and encouraged) to collaborate on the regular homework assignments.
+However, each of you must write up your own solutions independently, and
+you must not share the writeups of your solutions! Please write names of all the
+students with whom you collaborated on each homework writeup.
+• You must typeset the regular homeworks, but may handwrite the independent
+homeworks. We will provide you with Latex template for writing homework solutions.
+All homeworks are to be submitted via Gradescope.
+• Do not ask for extensions. You are automatically granted:
+– For any two regular homeworks of your choice, you may submit up to 48 hours late
+without penalty. You do not need to ask permission to use this extension.
+Just indicate on the first page of your homework that you are using an extension.
+– You will not receive any credit for a homework submitted more than 48 hours after
+the original due date. We will close the submissions after 48 hours.
+– For every additional homework submitted beyond the two allotted extensions, you
+will automatically lose 25% of the points.
+– Use extensions wisely. You will not obtain an extension for the end of the semester.
+• No electronic devices (cellphones, laptops, tablets) during the class. The only
+exception to this is if you are using a laptop or tablet for note-taking – please make sure
+that your usage is strictly limited to note-taking.
+• There are no make-up Midterms. If you have a medical or other emergency which
+physically prevents you from taking a midterm, you may be eligible for an exception.
+You must submit a Course Absence Report (CAR), and the subsequent exam (either
+second Midterm or Final exam) will count as the midterm grade.
+2

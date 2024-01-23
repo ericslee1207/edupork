@@ -1,7 +1,7 @@
 import openai
 import re
 
-openai.api_key = "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"
+openai.api_key = "(insert open ai api key here)"
 
 def generate_flashcards(transcribed_text, num_flashcards):
     flashcards = []
